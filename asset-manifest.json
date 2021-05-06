@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/One_Card/static/css/main.8932ee53.chunk.css",
+    "main.js": "/One_Card/static/js/main.b89391f0.chunk.js",
+    "main.js.map": "/One_Card/static/js/main.b89391f0.chunk.js.map",
+    "runtime-main.js": "/One_Card/static/js/runtime-main.eb351d88.js",
+    "runtime-main.js.map": "/One_Card/static/js/runtime-main.eb351d88.js.map",
+    "static/js/2.459abc41.chunk.js": "/One_Card/static/js/2.459abc41.chunk.js",
+    "static/js/2.459abc41.chunk.js.map": "/One_Card/static/js/2.459abc41.chunk.js.map",
+    "static/js/3.ef58d9b0.chunk.js": "/One_Card/static/js/3.ef58d9b0.chunk.js",
+    "static/js/3.ef58d9b0.chunk.js.map": "/One_Card/static/js/3.ef58d9b0.chunk.js.map",
+    "index.html": "/One_Card/index.html",
+    "static/css/main.8932ee53.chunk.css.map": "/One_Card/static/css/main.8932ee53.chunk.css.map",
+    "static/js/2.459abc41.chunk.js.LICENSE.txt": "/One_Card/static/js/2.459abc41.chunk.js.LICENSE.txt",
+    "static/media/lorem-ipsum.a78483c5.png": "/One_Card/static/media/lorem-ipsum.a78483c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb351d88.js",
+    "static/js/2.459abc41.chunk.js",
+    "static/css/main.8932ee53.chunk.css",
+    "static/js/main.b89391f0.chunk.js"
+  ]
+}
